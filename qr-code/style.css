@@ -1,0 +1,37 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+background-color: hsl(212, 45%, 89%);
+text-align: center;
+}
+.c{
+    height: 470px;
+    width: 300px;
+    background-color: white;
+    margin: 140px auto 0 auto;
+    border-radius: 15px;
+}
+img{    
+    border-radius: 15px;
+    width: 270px;
+    height: 270px;
+    margin-top: 15px;
+}
+h2{
+    padding: 15px 27px;
+    font-weight: 700;
+    font-family: "Outfit";
+    color: hsl(218, 44%, 22%);
+    font-size: 21px;
+}
+p{
+    font-size: 15px;
+    padding: 0 20px;
+    font-weight: 400;
+    font-family: "Outfit";
+    color: hsl(216, 15%, 48%);
+    width: 258.8px;
+    height: 57.6px;
+}
