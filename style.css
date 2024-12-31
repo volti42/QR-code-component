@@ -10,11 +10,11 @@ text-align: center;
     height: 470px;
     width: 300px;
     background-color: white;
-    margin: 140px auto 0 auto;
+    margin: 180px auto 0 auto;
     border-radius: 15px;
 }
 img{    
-    border-radius: 0px;
+    border-radius: 15px;
     width: 270px;
     height: 270px;
     margin-top: 15px;
