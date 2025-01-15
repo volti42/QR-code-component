@@ -9,6 +9,7 @@ display: grid;
 place-items: center;
 justify-content: center;
 min-height: 100vh;
+margin-top: -55px;
 }
 .text{
     text-align: center;
