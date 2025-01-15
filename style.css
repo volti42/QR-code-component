@@ -11,7 +11,7 @@ justify-content: center;
 min-height: 100vh;
 }
 .c{
-    height: 495px;
+    height: 500px;
     width: 315px;
     background-color: white;
     border-radius: 20px;
@@ -23,7 +23,7 @@ img{
     margin-top: 15px;
 }
 h2{
-    padding: 14px 10px;
+    padding: 14px 15px;
     font-weight: 700;
     font-family: "Outfit";
     color: hsl(218, 44%, 22%);
