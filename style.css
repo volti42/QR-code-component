@@ -5,6 +5,10 @@
 body{
 background-color: hsl(212, 45%, 89%);
 text-align: center;
+display: grid;
+place-items: center;
+justify-content: center;
+min-height: 100vh;
 }
 .c{
     height: 470px;
