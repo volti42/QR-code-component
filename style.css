@@ -11,13 +11,13 @@ justify-content: center;
 min-height: 100vh;
 }
 .c{
-    height: 490px;
+    height: 495px;
     width: 300px;
     background-color: white;
-    border-radius: 15px;
+    border-radius: 20px;
 }
 img{    
-    border-radius: 15px;
+    border-radius: 20px;
     width: 270px;
     height: 270px;
     margin-top: 15px;
