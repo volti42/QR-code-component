@@ -32,7 +32,7 @@ display: grid;
 place-items: center;
 justify-content: center;
 }
-h2{
+h1{
     padding: 16px 15px;
     font-weight: 700;
     font-family: "Outfit";
@@ -45,6 +45,6 @@ p{
     font-family: "Outfit";
     color: hsl(216, 15%, 48%);
     width: 260px;
-    margin-top: -2px;
+    margin-top: -1px;
 }
 /*    width: 258.8px;*/
