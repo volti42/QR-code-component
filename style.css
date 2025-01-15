@@ -17,10 +17,10 @@ min-height: 100vh;
     border-radius: 20px;
 }
 img{    
-    border-radius: 10px;
+    border-radius: 15px;
     width: 290px;
     height: 290px;
-    margin-top: 17px;
+    margin-top: 16px;
 }
 h2{
     padding: 16px 15px;
@@ -31,10 +31,11 @@ h2{
 }
 p{
     font-size: 15px;
-    padding: 0 25px;
+    padding: 0 20px;
     font-weight: 400;
     font-family: "Outfit";
     color: hsl(216, 15%, 48%);
     width: 258.8px;
     height: 57.6px;
+    margin-top: -3px;
 }
