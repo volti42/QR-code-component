@@ -23,11 +23,10 @@ img{
     margin-top: 15px;
 }
 h2{
-    padding: 15px 27px;
+    padding: 15px 15px;
     font-weight: 700;
     font-family: "Outfit";
     color: hsl(218, 44%, 22%);
-    font-size: 21px;
 }
 p{
     font-size: 15px;
