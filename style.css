@@ -1,3 +1,4 @@
+
 *{
     padding: 0;
     margin: 0;
@@ -10,9 +11,6 @@ place-items: center;
 justify-content: center;
 min-height: 100vh;
 }
-.text{
-    text-align: center;
-}
 .c{
     height: 500px;
     width: 315px;
@@ -20,16 +18,10 @@ min-height: 100vh;
     border-radius: 20px;
 }
 img{    
-    border-radius: 10px;
-    width: 285px;
+    border-radius: 15px;
+    width: 290px;
     height: 290px;
     margin-top: 16px;
-}
-.text{
-    text-align: center;
-display: grid;
-place-items: center;
-justify-content: center;
 }
 h2{
     padding: 16px 15px;
@@ -40,6 +32,7 @@ h2{
 }
 p{
     font-size: 15px;
+    padding: 0 20px;
     font-weight: 400;
     font-family: "Outfit";
     color: hsl(216, 15%, 48%);
