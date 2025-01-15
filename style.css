@@ -6,8 +6,8 @@ body{
 background-color: hsl(212, 45%, 89%);
 text-align: center;
 display: grid;
-place-items: left;
-justify-content: left;
+place-items: center;
+justify-content: center;
 min-height: 100vh;
 }
 .c{
@@ -15,7 +15,7 @@ min-height: 100vh;
     width: 300px;
     background-color: white;
     border-radius: 15px;
-    margin-top: 10px;
+    margin-top: 5px;
 }
 img{    
     border-radius: 15px;
